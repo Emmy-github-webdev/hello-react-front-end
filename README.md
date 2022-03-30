@@ -2,6 +2,8 @@
 
 > In this project I created a react front-end app to consume the Rails back-end API
 
+## Rails Backend-end
+https://github.com/Emmy-github-webdev/hello-rails-react-backend
 
 ## Built With
 
